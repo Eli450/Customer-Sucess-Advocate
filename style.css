@@ -1,0 +1,187 @@
+
+body {
+    background-color: #EFE6E5;
+    margin: 0px;
+}
+
+html {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+}
+
+.dados {
+    height: 91px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    display: flex;  
+    margin: 0px;
+}
+
+.nome {
+    width: 50%;
+}
+
+.email {
+    width: 50%;
+    text-align: right;
+    font-weight: 595;
+}
+
+.capa {
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex; 
+}
+
+.intro {
+    padding-top: 15px;
+    width: 100%;   
+}
+
+.intro p {
+    font-weight: 595;
+}
+
+.intro p img {
+    padding-right: 8px;
+}
+
+.intro-text {
+    width: 74%;
+}
+
+.segundo {
+    font-weight: 300 !important;
+    font-size: 17px;
+}
+
+.intro h1 {
+    font-size: 60px;
+    width: 70%; 
+    font-weight: 400;
+}
+
+.links {
+    margin-top: 82px;
+}
+
+.links ul {
+    padding-left: 0px;
+}
+
+.links ul li {
+    list-style: none;
+    display: inline;
+    font-weight: 595;
+}
+
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color:black;
+}
+
+.linkedin {
+    margin-left: 20px;
+}
+.anexos {
+    width: 90%;
+    padding-top: 35px;
+}
+
+.anexos img {
+    width: 100%;
+}
+
+.about-me {
+    width: 100%;
+    height: 500px;   
+}
+
+.about-me div {
+    height: 80%;
+    width: 50%;
+    padding: 40px;
+}
+
+.about-me div h3 {
+    font-weight: 595;
+    font-size: 15px;
+}
+
+.about-me div p {
+    font-weight: 390;
+}
+
+.about-me img {
+    margin-top: 40px;
+}
+
+.information-2021 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-bottom: 6%;
+}
+
+.image {
+    width: 50%;
+    height: 80%;
+    padding-left: 40px;   
+}
+
+.image img {
+    width: 90%;
+}
+
+
+.text {
+    width: 50%;
+    height: 80%;
+    padding-left: 30px;
+    padding-right: 30px;  
+}
+
+.comunication {
+    display:flex;
+    height: 91px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;    
+}
+
+.social {
+    width: 50%;
+}
+
+.social ul{
+    padding-left: 260px;
+}
+
+.social ul li {
+    list-style: none;
+    display: inline;
+    font-weight: 595; 
+
+}
+
+.work {
+    padding-left: 20px;
+}
+
+.doismil {
+    font-weight: 100;
+}
+
+.negrito {
+    font-weight: 595;
+    font-size: 15px;
+}
+
+.title {
+    font-weight: 300;
+    font-size: 30px;
+}
