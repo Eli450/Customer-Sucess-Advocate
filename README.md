@@ -4,11 +4,11 @@ Este é o segundo site que me desafiei a criar para me ajudar a aumentar mais o 
 
 ## Projecto original
 
-<img src="https://github.com/Eli450/Customer-Sucess-Advocate/blob/main/.github/original.png">
+<img src="https://github.com/Eli450/Customer-Sucess-Advocate/blob/ej-adicionar-readme.md/.github/original.png">
 
 ### Projecto final
 
-<img src="https://github.com/Eli450/Customer-Sucess-Advocate/blob/main/.github/site.png">
+<img src="https://github.com/Eli450/Customer-Sucess-Advocate/blob/ej-adicionar-readme.md/.github/site.png">
 
 
 License
